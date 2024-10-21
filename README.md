@@ -41,8 +41,8 @@ This project demonstrates how to set up and manage an Active Directory environme
    - Name your VM (e.g., `AD_Server`), select **Windows** as the type, and choose the version that matches your Windows Server ISO (e.g., Windows 2022).
    - Allocate memory (at least 2 GB recommended) and create a virtual hard disk.
 
-![Create VM]<img src="screenshots/create_vm.png" width="100" height="100">
-![Create VM2](screenshots/create_vm2.png)
+<img src="screenshots/create_vm.png" width="640" height="480">
+<img src="screenshots/create_vm2.png" width="640" height="480">
 
 ### 2. Create a Windows Server VM
 
@@ -51,16 +51,16 @@ This project demonstrates how to set up and manage an Active Directory environme
    - Under **System**, ensure that **Enable EFI (special OSes only)** is unchecked.
    - Under **Network**, set **Adapter 1** to **Bridged Adapter** or **NAT** (for internet access).
 
-![VM Settings](screenshots/vm_settings.png)
-![VM Settings2](screenshots/vm_settings2.png)
+<img src="screenshots/vm_settings.png" width="640" height="480">
+<img src="screenshots/vm_settings2.png" width="640" height="480">
 
 2. **Start the VM and Install Windows Server:**
    - Mount the Windows Server ISO in the VM settings under **Storage**.
    - Start the VM and follow the installation prompts to install Windows Server.
 
-![Install Windows Server](screenshots/install_windows.png)
-![Install Windows Server2](screenshots/install_windows2.png)
-![Install Windows Server3](screenshots/install_windows3.png)
+<img src="screenshots/install_windows.png" width="640" height="480">
+<img src="screenshots/install_windows2.png" width="640" height="480">
+<img src="screenshots/install_windows3.png" width="640" height="480">
 
 ### 3. Install Active Directory Domain Services
 
