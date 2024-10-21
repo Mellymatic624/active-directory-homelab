@@ -69,7 +69,10 @@ This project demonstrates how to set up and manage an Active Directory environme
 3. Select **Role-based or feature-based installation** and click **Next**.
 4. Choose your server and select **Active Directory Domain Services**.
 
-![Install AD DS](screenshots/install_ad_ds.png)
+<img src="screenshots/install_ad_ds.png" width="640" height="480">
+<img src="screenshots/install_ad_ds2.png" width="640" height="480">
+<img src="screenshots/install_ad_ds3.png" width="640" height="480">
+
 
 ### 4. Promote the Server to a Domain Controller
 
