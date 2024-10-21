@@ -15,10 +15,8 @@ This project outlines the setup and configuration of an Active Directory (AD) en
   - [6. Create Organizational Units](#6-create-organizational-units)
   - [7. Create Users and Groups](#7-create-users-and-groups)
   - [8. Apply Group Policies](#8-apply-group-policies)
-- [Screenshots](#screenshots)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -125,31 +123,35 @@ This project demonstrates how to set up and manage an Active Directory environme
 <img src="screenshots/apply_gpo2.png" width="640" height="480">
 <img src="screenshots/apply_gpo3.png" width="640" height="480">
 
-## Screenshots
-
-Here are some additional screenshots documenting the setup process:
-
-1. **Server Manager Overview**
-   ![Server Manager](screenshots/server_manager.png)
-
-2. **Active Directory Users and Computers**
-   ![AD Users](screenshots/ad_users.png)
-
-3. **Group Policy Management Console**
-   ![GPMC](screenshots/gpmc.png)
 
 ## Troubleshooting
 
-- **User Login Issues:** Ensure the user account is not locked out and that the correct password is being used.
-- **Group Policy Not Applying:** Run `gpupdate /force` on the client machine and check Event Viewer for Group Policy processing errors.
+### 1. VM Not Booting
+- **Symptoms:** VM does not start.
+- **Solution:** Check boot order and ensure the virtual hard disk is first.
 
+### 2. Promotion Fails
+- **Symptoms:** Error during Domain Controller promotion.
+- **Solution:** Ensure a static IP is assigned and DNS points to 127.0.0.1.
+
+### 3. DNS Issues
+- **Symptoms:** Cannot resolve domain names.
+- **Solution:** Verify the DNS service is running and client settings point to the Domain Controller.
+
+### 4. Group Policy Not Applying
+- **Symptoms:** Group Policies not reflected.
+- **Solution:** Run `gpupdate /force` and check group policy results with `gpresult`.
+
+### 5. User Account Lockouts
+- **Symptoms:** Frequent user lockouts.
+- **Solution:** Check Event Viewer for lockout events and use **LockoutStatus.exe** for analysis.
+
+### 6. Unable to Create Users or Groups
+- **Symptoms:** Error when creating users/groups.
+- **Solution:** Verify permissions and the correct Organizational Unit (OU).
 ## Contributing
 
 Contributions are welcome! Please submit issues or pull requests to improve this documentation or add additional features.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
