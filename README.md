@@ -38,7 +38,7 @@ This project demonstrates how to set up and manage an Active Directory environme
 1. **Download and Install VirtualBox:** If you haven't already, download VirtualBox from the official website and install it on your machine.
 2. **Create a new VM:**
    - Open VirtualBox and click on **New**.
-   - Name your VM (e.g., `AD_Server`), select **Windows** as the type, and choose the version that matches your Windows Server ISO (e.g., Windows 2019).
+   - Name your VM (e.g., `AD_Server`), select **Windows** as the type, and choose the version that matches your Windows Server ISO (e.g., Windows 2022).
    - Allocate memory (at least 2 GB recommended) and create a virtual hard disk.
 
 ![Create VM](screenshots/create_vm.png)
