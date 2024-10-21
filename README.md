@@ -42,7 +42,7 @@ This project demonstrates how to set up and manage an Active Directory environme
    - Allocate memory (at least 2 GB recommended) and create a virtual hard disk.
 
 ![Create VM](screenshots/create_vm.png)
-![Create VM2](screenshots/create_vm2.png)
+
 
 ### 2. Create a Windows Server VM
 
