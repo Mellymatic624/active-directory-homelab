@@ -98,7 +98,8 @@ This project demonstrates how to set up and manage an Active Directory environme
 2. Right-click on the domain name and select **New** > **Organizational Unit**.
 3. Name your OUs (e.g., `Users`, `Groups`, `Computers`).
 
-![Create OUs](screenshots/create_ous.png)
+<img src="screenshots/create_ous.png" width="640" height="480">
+<img src="screenshots/create_ous2.png" width="640" height="480">
 
 ### 7. Create Users and Groups
 
