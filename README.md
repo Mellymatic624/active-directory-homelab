@@ -121,7 +121,9 @@ This project demonstrates how to set up and manage an Active Directory environme
 2. Right-click on the desired OU and select **Create a GPO in this domain, and Link it here**.
 3. Name the GPO and configure the necessary settings.
 
-![Apply Group Policies](screenshots/apply_gpo.png)
+<img src="screenshots/apply_gpo.png" width="640" height="480">
+<img src="screenshots/apply_gpo2.png" width="640" height="480">
+<img src="screenshots/apply_gpo3.png" width="640" height="480">
 
 ## Screenshots
 
