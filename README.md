@@ -81,6 +81,7 @@ This project demonstrates how to set up and manage an Active Directory environme
 3. Choose **Add a new forest** and specify the domain name (e.g., `example.local`).
 
 <img src="screenshots/promote_to_dc.png" width="640" height="480">
+<img src="screenshots/promote_to_dc2.png" width="640" height="480">
 
 4. Complete the wizard to finalize the promotion.
 
