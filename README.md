@@ -154,8 +154,8 @@ This project demonstrates how to set up and manage an Active Directory environme
 Contributions are welcome! Please submit issues or pull requests to improve this documentation or add additional features.
 
 **Contact:**
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- GitHub: [your-github-profile](https://github.com/your-github-profile)
+- Email: [larose.jamel.d@gmail.com](mailto:larose.jamel.d@gmail.com)
+- GitHub: [github.com/mellymatic624/mellymatic624](https://github.com/Mellymatic624/mellymatic624)
 
 ---
 
