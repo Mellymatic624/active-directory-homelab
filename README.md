@@ -89,7 +89,8 @@ This project demonstrates how to set up and manage an Active Directory environme
 
 - Ensure that the server's DNS settings point to itself (127.0.0.1).
 
-![Configure DNS](screenshots/configure_dns.png)
+<img src="screenshots/configure_dns.png" width="640" height="480">
+<img src="screenshots/configure_dns2.png" width="640" height="480">
 
 ### 6. Create Organizational Units
 
