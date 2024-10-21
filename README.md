@@ -42,7 +42,7 @@ This project demonstrates how to set up and manage an Active Directory environme
    - Allocate memory (at least 2 GB recommended) and create a virtual hard disk.
 
 ![Create VM](screenshots/create_vm.png)
-
+![Create VM2](screenshots/create_vm2.png)
 
 ### 2. Create a Windows Server VM
 
@@ -52,7 +52,6 @@ This project demonstrates how to set up and manage an Active Directory environme
    - Under **Network**, set **Adapter 1** to **Bridged Adapter** or **NAT** (for internet access).
 
 ![VM Settings](screenshots/vm_settings.png)
-![VM Settings2](screenshots/vm_settings2.png)
 
 2. **Start the VM and Install Windows Server:**
    - Mount the Windows Server ISO in the VM settings under **Storage**.
