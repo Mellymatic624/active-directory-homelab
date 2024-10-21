@@ -155,7 +155,7 @@ Contributions are welcome! Please submit issues or pull requests to improve this
 
 **Contact:**
 - Email: [larose.jamel.d@gmail.com](mailto:larose.jamel.d@gmail.com)
-- GitHub: [github.com/mellymatic624/mellymatic624](https://github.com/Mellymatic624/mellymatic624)
+- GitHub: [github.com/mellymatic624/](https://github.com/Mellymatic624/)
 
 ---
 
