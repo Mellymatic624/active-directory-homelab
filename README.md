@@ -47,11 +47,12 @@ This project demonstrates how to set up and manage an Active Directory environme
 ### 2. Create a Windows Server VM
 
 1. **Configure VM Settings:**
-   - Select the VM and click on **Settings**.
+   - Right-click on the VM and select **Settings**.
    - Under **System**, ensure that **Enable EFI (special OSes only)** is unchecked.
    - Under **Network**, set **Adapter 1** to **Bridged Adapter** or **NAT** (for internet access).
 
 ![VM Settings](screenshots/vm_settings.png)
+![VM Settings2](screenshots/vm_settings2.png)
 
 2. **Start the VM and Install Windows Server:**
    - Mount the Windows Server ISO in the VM settings under **Storage**.
