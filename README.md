@@ -153,6 +153,9 @@ This project demonstrates how to set up and manage an Active Directory environme
 
 Contributions are welcome! Please submit issues or pull requests to improve this documentation or add additional features.
 
+**Contact:**
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- GitHub: [your-github-profile](https://github.com/your-github-profile)
+
 ---
 
-If you have any questions or need further assistance with the Active Directory setup in VirtualBox, feel free to reach out!
