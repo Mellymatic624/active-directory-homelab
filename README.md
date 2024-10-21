@@ -107,13 +107,13 @@ This project demonstrates how to set up and manage an Active Directory environme
   1. Right-click on the `Users` OU and select **New** > **User**.
   2. Fill in the user details and complete the wizard.
 
-![Create Users](screenshots/create_users.png)
+<img src="screenshots/create_users.png" width="640" height="480">
 
 - **Creating Groups:**
   1. Right-click on the `Groups` OU and select **New** > **Group**.
   2. Specify the group type and name.
 
-![Create Groups](screenshots/create_groups.png)
+<img src="screenshots/create_groups.png" width="640" height="480">
 
 ### 8. Apply Group Policies
 
