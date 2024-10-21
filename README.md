@@ -59,6 +59,7 @@ This project demonstrates how to set up and manage an Active Directory environme
    - Start the VM and follow the installation prompts to install Windows Server.
 
 ![Install Windows Server](screenshots/install_windows.png)
+![Install Windows Server2](screenshots/install_windows2.png)
 
 ### 3. Install Active Directory Domain Services
 
